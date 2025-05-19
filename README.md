@@ -17,6 +17,6 @@ An article a day! Topics: ML, DL, AI, DS...
 
 ## 📅 May 19, 2025  
 **🔗 [Koala: A Dialogue Model for Academic Research](https://bair.berkeley.edu/blog/2023/04/03/koala/)**  
-**🧩 Tags:** `LLM` `Dialogue System`
+**🧩 Tags:** `LLM` 
 
 ---
