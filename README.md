@@ -27,5 +27,5 @@ An article a day! Topics: ML, DL, AI, DS...
 ---
 
 ## 📅 July 25, 2025  
-**🔗 [Exploring GPT-NeoX-20B: A Breakthrough in Language AI]([https://medium.com/dev-genius/data-cleansing-in-python-common-ways-to-clean-your-data-3459a256dd85](https://botpenguin.com/blogs/exploring-gpt-neox-20b))**  
+**🔗 [Exploring GPT-NeoX-20B: A Breakthrough in Language AI](https://botpenguin.com/blogs/exploring-gpt-neox-20b)**  
 **🧩 Tags:** `LLM` `AI`
