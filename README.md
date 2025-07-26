@@ -30,6 +30,13 @@ An article a day! Topics: ML, DL, AI, DS...
 **🔗 [Exploring GPT-NeoX-20B: A Breakthrough in Language AI](https://botpenguin.com/blogs/exploring-gpt-neox-20b)**  
 **🧩 Tags:** `LLM` `AI`
 
+---
+
+
+## 📅 July 26, 2025  
+**🔗 [Using PyGWalker to Enhance Your Jupyter Notebook EDA Experience](https://towardsdatascience.com/use-pygwalker-to-enhance-your-jupyter-notebook-eda-experience-d7a5ee358be9/)**  
+**🧩 Tags:** `Data Science` `Data Visualization `
+
 
 
 
@@ -40,5 +47,5 @@ An article a day! Topics: ML, DL, AI, DS...
 **🧩 Tags:** `Data Science` `Data Visualization `
 
 ---
-**🔗 [PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis]((https://arxiv.org/pdf/2406.11637))**  
+**🔗 [PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis](https://arxiv.org/pdf/2406.11637)**  
 **🧩 Tags:** `Data Science` `Data Visualization `
