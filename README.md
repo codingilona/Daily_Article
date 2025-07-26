@@ -37,7 +37,8 @@ An article a day! Topics: ML, DL, AI, DS...
 # 🧠 To-Read  
 ---
 **🔗 [MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation](https://arxiv.org/pdf/2107.07823)**  
-**🧩 Tags:** `Data Science` `Data visualization `
+**🧩 Tags:** `Data Science` `Data Visualization `
+
 ---
 **🔗 [PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis]((https://arxiv.org/pdf/2406.11637))**  
 **🧩 Tags:** `Data Science` `Data Visualization `
