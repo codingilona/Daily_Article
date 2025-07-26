@@ -29,3 +29,15 @@ An article a day! Topics: ML, DL, AI, DS...
 ## 📅 July 25, 2025  
 **🔗 [Exploring GPT-NeoX-20B: A Breakthrough in Language AI](https://botpenguin.com/blogs/exploring-gpt-neox-20b)**  
 **🧩 Tags:** `LLM` `AI`
+
+
+
+
+
+# 🧠 To-Read  
+---
+**🔗 [MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation](https://arxiv.org/pdf/2107.07823)**  
+**🧩 Tags:** `Data Science` `Data visualization `
+---
+**🔗 [PyGWalker: On-the-fly Assistant for Exploratory Visual Data Analysis]((https://arxiv.org/pdf/2406.11637))**  
+**🧩 Tags:** `Data Science` `Data Visualization `
