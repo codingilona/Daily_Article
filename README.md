@@ -32,10 +32,15 @@ An article a day! Topics: ML, DL, AI, DS...
 
 ---
 
-
 ## 📅 July 26, 2025  
 **🔗 [Using PyGWalker to Enhance Your Jupyter Notebook EDA Experience](https://towardsdatascience.com/use-pygwalker-to-enhance-your-jupyter-notebook-eda-experience-d7a5ee358be9/)**  
 **🧩 Tags:** `Data Science` `Data Visualization `
+
+---
+
+## 📅 July 26, 2025  
+**🔗 [SQL Interview Questions (with Answers & Friendly Insights)](https://medium.com/ai-analytics-diaries/sql-interview-questions-with-answers-friendly-insights-e11a8b5f71c5)**  
+**🧩 Tags:** `SQL` `Interview`
 
 
 
