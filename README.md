@@ -38,7 +38,7 @@ An article a day! Topics: ML, DL, AI, DS...
 
 ---
 
-## 📅 July 26, 2025  
+## 📅 July 30, 2025  
 **🔗 [SQL Interview Questions (with Answers & Friendly Insights)](https://medium.com/ai-analytics-diaries/sql-interview-questions-with-answers-friendly-insights-e11a8b5f71c5)**  
 **🧩 Tags:** `SQL` `Interview`
 
